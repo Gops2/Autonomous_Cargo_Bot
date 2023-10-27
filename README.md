@@ -1,0 +1,2 @@
+# Autonomous_Cargo_Bot
+ Revolutionary cargo transportation robot powered by a Propeller microcontroller. It navigates factory floors with IR and ultrasonic sensors, following black lines to deliver cargo swiftly and accurately while avoiding obstacles. Enhances speed and accuracy, reducing human error, and offers adaptability for various production environments. A glimpse into the future of autonomous manufacturing transport technology
