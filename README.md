@@ -24,3 +24,5 @@ The AGV operates within a simulated grid-like factory layout. Starting from a de
 ![Circuit Diagram](https://github.com/user-attachments/assets/b66472f0-fd09-4196-85fd-4360ff9a6fdf)
 
 
+[Watch the video](https://github.com/Gops2/Autonomous_Cargo_Bot/blob/main/Assets/propeller_vid.mp4)
+
